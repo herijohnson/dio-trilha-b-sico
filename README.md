@@ -1,2 +1,2 @@
-# dio-trilha-b-sico
+# dio-trilha-java-básico
 Repositório de Exercícios do Curso Básico
